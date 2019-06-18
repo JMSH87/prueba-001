@@ -6,4 +6,4 @@ figure
     xlabel('Samples')
     ylabel('Random number')  
     
-    
+% Comentario hecho desde la web    
