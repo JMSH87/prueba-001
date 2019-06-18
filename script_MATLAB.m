@@ -4,7 +4,6 @@ close all
 figure
     plot(rand(100,1))
     xlabel('Samples')
-    ylabel('Random number')
-    
+    ylabel('Random number')  
     
     
